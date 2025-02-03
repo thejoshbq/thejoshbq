@@ -50,3 +50,7 @@ Thanks for stopping by! Feel free to explore my repositories and reach out if yo
 *"The heavens declare the glory of God, and the sky above proclaims his handiwork."*
 
 *Psalm 19:1*
+
+*"So, whether you eat or drink, or whatever you do, do all to the glory of God."*
+
+*1 Corinthians 10:31*
