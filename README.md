@@ -41,7 +41,7 @@ When I’m not coding, you’ll find me:
 ## 📬 Connect with Me  
 
 - 📧 **Email:** boquiren@musc.edu  
-- 🐦 **Twitter (X):** [@thejoshbq](https://twitter.com/thejoshbq)  
+- 🐦 **X:** [@thejoshbq](https://twitter.com/thejoshbq)  
 - 💼 **LinkedIn:** [Joshua Boquiren](https://www.linkedin.com/in/joshua-boquiren)  
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate or just chat about code or coffee! ☕🚀  
