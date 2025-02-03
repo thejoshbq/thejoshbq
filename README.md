@@ -47,10 +47,6 @@ When I’m not coding, you’ll find me:
 Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate or just chat about code or coffee! ☕🚀  
 
 ---
-*"The heavens declare the glory of God, and the sky above proclaims his handiwork."*
+*"The heavens declare the glory of God, and the sky above proclaims his handiwork." - Psalm 19:1*
 
-*Psalm 19:1*
-
-*"So, whether you eat or drink, or whatever you do, do all to the glory of God."*
-
-*1 Corinthians 10:31*
+*"So, whether you eat or drink, or whatever you do, do all to the glory of God." - 1 Corinthians 10:31*
