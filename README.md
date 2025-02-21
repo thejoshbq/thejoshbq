@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joshua Boquiren  
 
-Welcome to my GitHub! I'm a versatile "Swiss Army Knife" style software developer with a strong foundation in neuroscience research and embedded systems. My work spans across Python, C++ (Arduino), RESTful API development, data analysis, and interactive dashboard creation. I take pride in optimizing workflows, refining existing systems, and designing robust software solutions that integrate hardware and software seamlessly.  
+Welcome to my GitHub! My work spans across Python, C++ (Arduino), RESTful API development, data analysis, and interactive dashboard creation. I take pride in optimizing workflows, refining existing systems, and designing robust software solutions that integrate hardware and software seamlessly.  
 
 ---
 
