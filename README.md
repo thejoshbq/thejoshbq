@@ -1,52 +1,36 @@
-# 👋 Hi, I'm Joshua Boquiren  
+# Joshua Boquiren
 
-Welcome to my GitHub! My work spans across Python, C++ (Arduino), RESTful API development, data analysis, and interactive dashboard creation. I take pride in optimizing workflows, refining existing systems, and designing robust software solutions that integrate hardware and software seamlessly.  
+*"The heavens declare the glory of God, and the sky above procaims His handiwork." - Psalm 19:1*
 
----
+## About Me
 
-## 🧠 Neuroscience & Experimental Paradigm Development  
+I’m a software developer with a knack for tackling diverse challenges—whether it’s writing Arduino sketches in C++, crafting Python packages, or designing browser-based UIs with frameworks like Voila and Panel. My projects range from custom libraries to experimental tools, and I’m always looking for new ways to push my skills. I have experience working in agile environments using the SCRUM methodology, which has helped me deliver projects efficiently and collaboratively. Right now, I’m deepening my knowledge in machine learning and data analysis, focusing on clustering, classification, and regression techniques.
 
-I currently work at the **Medical University of South Carolina (MUSC)** in the **Otis Lab**, where our research focuses on pathways connected to **drug-seeking behavior**. Since joining, I have:  
+## Technologies
 
-- 🔬 **Refracted and optimized** data analysis pipelines  
-- 🎛 **Developed the REACHER Suite**—a system that integrates an **Arduino framework** with a **Python-based GUI** for running behavioral paradigms on **head-fixed rodents**  
-- 🚀 Enhanced experimental paradigms to improve **efficiency, flexibility, and scalability**  
+- **Languages**: Python, C++, Java, HTML/CSS  
+- **Frameworks**: Django, Flask, Pandas, NumPy, Tensorflow, Scikit-learn, PySerial, Panel, PySide6, Plotly
+- **Tools**: Git, Arduino
 
-🔗 Learn more about our lab: [Otis Lab Website](https://www.otis-lab.org/)  
-🔗 Explore the **REACHER Suite**: [GitHub Repository](https://github.com/LogisTechLLC/REACHER-Suite)  
+## Projects
 
----
+### REACHER Suite
 
-## 🏗️ Technologies & Skills  
+I’m developing the ***Rodent Experiment Application Controls and Handling Ecosystem for Research (REACHER Suite)***, an open-source framework for experimental paradigms with head-fixed rodents. It connects to multiple microcontrollers and supports running simultaneous sessions, either on a single machine or across distributed systems.
+[Link to project](https://github.com/Otis-Lab-MUSC/REACHER-Suite)
 
-- **Languages & Frameworks:** Python, Arduino C++, Flask (RESTful APIs), Django, Batch Scripting, Java 
-- **GUI & Dashboard Development:** `ipywidgets`, Voila, Pyinstaller, Panel, Plotly
-- **Data Analysis & Automation:** Pandas, NumPy, Matplotlib, Interactive Dashboards  
-- **Hardware & Embedded Systems:** Arduino, Serial Communication, Behavioral Data Acquisition  
+## Interests
 
----
+Outside of code, I’m into: 
+- Hiking scenic trails  
+- Playing disc golf  
+- Traveling to new places  
+- Finding the best local coffee spots
 
-## 🥋 Beyond Code  
+## Contact
 
-When I’m not coding, you’ll find me:  
-
-- 🥋 Training **Brazilian Jiu-Jitsu (BJJ) & MMA**  
-- 🏔 Hiking and exploring the outdoors  
-- 🎸 Playing **guitar & piano**  
-- 📚 Reading books (always learning!)  
-- ☕ Enjoying a **good pour-over coffee**  
-
----
-
-## 📬 Connect with Me  
-
-- 📧 **Email:** boquiren@musc.edu  
-- 🐦 **X:** [@thejoshbq](https://twitter.com/thejoshbq)  
-- 💼 **LinkedIn:** [Joshua Boquiren](https://www.linkedin.com/in/joshua-boquiren)  
-
-Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate or just chat about code or coffee! ☕🚀  
-
----
-*"The heavens declare the glory of God, and the sky above proclaims his handiwork." - Psalm 19:1*
-
-*"So, whether you eat or drink, or whatever you do, do all to the glory of God." - 1 Corinthians 10:31*
+Feel free to reach out:  
+- **Email**: [thejoshbq@proton.me](mailto:thejoshbq@proton.me)  
+- **X**: [@thejoshbq](https://x.com/thejoshbq)
+- **Medium**: [@thejoshbq](https://medium.com/@thejoshbq)
+- **LinkedIn:** [Joshua Boquiren](https://www.linkedin.com/in/joshua-boquiren)  
