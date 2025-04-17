@@ -28,49 +28,6 @@
 
 ---
 
-## Technologies
-
-<table style="width: 100%; max-width: 100%; margin: 0 auto; box-sizing: border-box;">
-  <tr>
-    <!-- Left Column: Technologies -->
-    <td valign="top" width="50%"">
-      <h3>Languages</h3>
-      <div align="left">
-        <a href="https://github.com/thejoshbq">
-          <img src="https://skillicons.dev/icons?i=cpp,python,java,bash,powershell,mysql,sqlite,html,css,markdown&perline=4" />
-        </a>
-      </div>
-      <h3>Frameworks & Libraries</h3>
-      <div align="left">
-        <a href="https://github.com/thejoshbq">
-          <img src="https://skillicons.dev/icons?i=tensorflow,react,django,flask,fastapi,matlab&perline=4" />
-        </a>
-      </div>
-    </td>
-    <!-- Right Column: Stats -->
-    <td valign="top" width="50%"">
-      <h3>Tools & Platforms</h3>
-      <div align="left">
-        <a href="https://github.com/thejoshbq">
-          <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,anaconda,figma&perline=4" />
-        </a>
-      </div>
-      <h3>Operating Systems</h3>
-      <div align="left">
-        <a href="https://github.com/thejoshbq">
-          <img src="https://skillicons.dev/icons?i=ubuntu,debian,kali&perline=4" />
-        </a>
-      </div>
-      <h3>Hardware</h3>
-      <div align="left">
-        <a href="https://github.com/thejoshbq">
-          <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=4" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
 ## GitHub Stats
 
 <div align="left">
@@ -81,6 +38,42 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thejoshbq&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
   </a>
 </div>
+
+## Technologies
+
+  <h3>Languages</h3>
+  <div align="left">
+    <a href="https://github.com/thejoshbq">
+      <img src="https://skillicons.dev/icons?i=cpp,python,java,bash,powershell,mysql,sqlite,html,css,markdown" />
+    </a>
+  </div>
+  <h3>Frameworks & Libraries</h3>
+  <div align="left">
+    <a href="https://github.com/thejoshbq">
+      <img src="https://skillicons.dev/icons?i=tensorflow,react,django,flask,fastapi,matlab" />
+    </a>
+  </div>
+
+  <h3>Tools & Platforms</h3>
+  <div align="left">
+    <a href="https://github.com/thejoshbq">
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,anaconda,figma" />
+    </a>
+  </div>
+  
+  <h3>Operating Systems</h3>
+  <div align="left">
+    <a href="https://github.com/thejoshbq">
+      <img src="https://skillicons.dev/icons?i=ubuntu,debian,kali" />
+    </a>
+  </div>
+  
+  <h3>Hardware</h3>
+  <div align="left">
+    <a href="https://github.com/thejoshbq">
+      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=4" />
+    </a>
+  </div>
 
 <br>
 
