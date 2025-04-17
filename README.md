@@ -12,7 +12,7 @@
 💻 Current project(s):
   - [REACHER](https://github.com/Otis-Lab-MUSC/reacher) - an open-source Python-based framework for managing experiments with head-fixed rodents and data acquisition
   - [Labrynth](https://github.com/Otis-Lab-MUSC/labrynth) - a deployable Panel-based frontend built using `REACHER`
-  - [ChangeGenius](https://github.com/CSCI495-Modus21) - a change-request management system with integrated LLM for expidited processes and database queries
+  - [ChangeGenius](https://github.com/CSCI495-Modus21/change-genius) - a change-request management system with integrated LLM for expidited processes and database queries
 
 ✍️ Outside of code, I’m into: 
   - Hiking scenic trails  
