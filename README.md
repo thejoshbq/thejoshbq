@@ -34,7 +34,7 @@
   <a href="https://github.com/thejoshbq">
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thejoshbq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false"/>
   </a><a href="https://github.com/thejoshbq">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thejoshbq&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=false" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thejoshbq&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
   </a>
 </div>
 
