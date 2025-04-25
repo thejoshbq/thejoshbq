@@ -73,9 +73,3 @@
       <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=4" />
     </a>
   </div>
-
-<br>
-
----
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
