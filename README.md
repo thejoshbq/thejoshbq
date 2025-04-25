@@ -43,27 +43,27 @@
   <h3>Languages</h3>
   <div align="left">
     <a href="https://github.com/thejoshbq">
-      <img src="https://skillicons.dev/icons?i=cpp,python,java,bash,powershell,mysql,sqlite,html,css,markdown" />
+      <img src="https://skillicons.dev/icons?i=cpp,python,java,bash,powershell,mysql,sqlite,html,css,markdown&perline=4" />
     </a>
   </div>
   <h3>Frameworks & Libraries</h3>
   <div align="left">
     <a href="https://github.com/thejoshbq">
-      <img src="https://skillicons.dev/icons?i=tensorflow,react,django,flask,fastapi,matlab" />
+      <img src="https://skillicons.dev/icons?i=tensorflow,react,django,flask,fastapi,matlab&perline=4" />
     </a>
   </div>
 
   <h3>Tools & Platforms</h3>
   <div align="left">
     <a href="https://github.com/thejoshbq">
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,anaconda,figma" />
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,anaconda,figma&perline=4" />
     </a>
   </div>
   
   <h3>Operating Systems</h3>
   <div align="left">
     <a href="https://github.com/thejoshbq">
-      <img src="https://skillicons.dev/icons?i=ubuntu,debian,kali" />
+      <img src="https://skillicons.dev/icons?i=ubuntu,debian,kali&perline=4" />
     </a>
   </div>
   
