@@ -10,6 +10,7 @@
 💡 I'm a software developer and data analyst for the [Otis Lab](https://www.otis-lab.org) at the Medical University of South Carolina.
 
 💻 Current project(s):
+  - [Pynapse](https://github.com/thejoshbq/pynapse) - a custom Python library for aligning 2-photon microscopy trace recordings with accompanying behavioral event logs and extracting neural data at event windows for analysis
   - [REACHER](https://github.com/Otis-Lab-MUSC/reacher) - an open-source Python-based framework for managing experiments with head-fixed rodents and data acquisition
   - [The Labrynth](https://github.com/Otis-Lab-MUSC/labrynth) - a deployable Panel-based frontend built using `REACHER`
   - [ChangeGenius](https://github.com/CSCI495-Modus21/change-genius) - a change-request management system with integrated LLM for expidited processes and database queries
@@ -31,45 +32,6 @@
 ## GitHub Stats
 
 <div align="left">
-  <a href="https://github.com/thejoshbq">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thejoshbq&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&hide_border=false"/>
-  </a><a href="https://github.com/thejoshbq">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thejoshbq&langs_count=10&layout=compact&theme=tokyonight&include_all_commits=false&count_private=false&hide_border=false" />
   </a>
 </div>
-
-## Technologies
-
-  <h3>Languages</h3>
-  <div align="left">
-    <a href="https://github.com/thejoshbq">
-      <img src="https://skillicons.dev/icons?i=cpp,python,java,bash,powershell,mysql,sqlite,html,css,markdown&perline=4" />
-    </a>
-  </div>
-  <h3>Frameworks & Libraries</h3>
-  <div align="left">
-    <a href="https://github.com/thejoshbq">
-      <img src="https://skillicons.dev/icons?i=tensorflow,react,django,flask,fastapi,matlab&perline=4" />
-    </a>
-  </div>
-
-  <h3>Tools & Platforms</h3>
-  <div align="left">
-    <a href="https://github.com/thejoshbq">
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,anaconda,figma&perline=4" />
-    </a>
-  </div>
-  
-  <h3>Operating Systems</h3>
-  <div align="left">
-    <a href="https://github.com/thejoshbq">
-      <img src="https://skillicons.dev/icons?i=ubuntu,debian,kali&perline=4" />
-    </a>
-  </div>
-  
-  <h3>Hardware</h3>
-  <div align="left">
-    <a href="https://github.com/thejoshbq">
-      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=4" />
-    </a>
-  </div>
