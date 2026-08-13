@@ -16,7 +16,10 @@
     - [roigbiv](https://github.com/thejoshbq/roigbiv) - automated ROI detection & longitudinal tracking pipeline for two-photon microscopy
     - [axplorer](https://github.com/thejoshbq/axplorer) - exploratory data analysis dashboard for aligned neural & behavioral data
     - [pynapse](https://github.com/thejoshbq/pynapse) - core data engine for loading, aligning, and preprocessing neural/behavioral recordings
-  - [Drug Self-administration in Head-fixed Mice - Doncheck, E.M. et al *Nature Protocols* (2026)](https://github.com/Otis-Lab-MUSC/doncheck-et-al-nature-protocols-2026) - a meta-repository that serves as a centralized hub for reproducible implementation of the head-restrained intravenous and oral self-administration protocol in mice
+
+📝 Publications:
+  - [A Model of Enthanol Self-administration in Head-fixed Mice - Ward, A.L. et al *Alcohol: Clinical and Experimental Research* (2025)](https://onlinelibrary.wiley.com/doi/full/10.1111/acer.70132) 
+  - [Drug Self-administration in Head-fixed Mice - Doncheck, E.M. et al *Nature Protocols* (2026)](https://www.nature.com/articles/s41596-026-01406-1) ([meta-repository](https://github.com/Otis-Lab-MUSC/doncheck-et-al-nature-protocols-2026))
 
 ✍️ Outside of code, I’m into: 
   - Dates with my wife
