@@ -7,7 +7,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 I'm a research software engineer for the [Otis Lab](https://www.otis-lab.org) at the Medical University of South Carolina. I build random things.
+💡 I'm a research software engineer for the [Otis Lab](https://www.otis-lab.org) at the Medical University of South Carolina. I build random projects.
 
 💻 Current project(s):
   - [Phoxel Workbench](https://github.com/thejoshbq/phoxel-workbench) - the umbrella platform for the REACHER Suite, an integrated toolset for behavioral neuroscience experiments in head-fixed mice
@@ -18,19 +18,19 @@
     - [pynapse](https://github.com/thejoshbq/pynapse) - core data engine for loading, aligning, and preprocessing neural/behavioral recordings
 
 📝 Publications:
+  - [Drug Self-administration in Head-fixed Mice - Doncheck, E.M. et al *Nature Protocols* (2026)](https://www.nature.com/articles/s41596-026-01406-1) *(...view the meta-repository [here](https://github.com/Otis-Lab-MUSC/doncheck-et-al-nature-protocols-2026)...)*
   - [A Model of Enthanol Self-administration in Head-fixed Mice - Ward, A.L. et al *Alcohol: Clinical and Experimental Research* (2025)](https://onlinelibrary.wiley.com/doi/full/10.1111/acer.70132) 
-  - [Drug Self-administration in Head-fixed Mice - Doncheck, E.M. et al *Nature Protocols* (2026)](https://www.nature.com/articles/s41596-026-01406-1) ([meta-repository](https://github.com/Otis-Lab-MUSC/doncheck-et-al-nature-protocols-2026))
 
 ✍️ Outside of code, I’m into: 
   - Dates with my wife
   - Playing with my daughter
   - Hiking scenic trails  
   - Disc golfing
-  - Cities: Skylines II builds
+  - *Cities: Skylines II* builds
   - Traveling to new places  
   - Finding the best local coffee spots
 
-💬 Unapologetically, pineapple belongs on pizza and the only *correct* way to drink coffee is black.
+💬 Unapologetically, pineapple belongs on pizza, and the only *correct* way to drink coffee is black.
 
 <br>
 
